@@ -1,1 +1,2 @@
-Projeto em java, para uma locadora de veículos. Arquivo executável.
+# car-rental
+Desenvolvi um projeto em Java para uma locadora de veículos, proporcionando um arquivo executável para facilitar a utilização.
